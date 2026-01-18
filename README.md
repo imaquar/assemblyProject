@@ -43,7 +43,7 @@ The project is built using the `make` utility:
   Parameter format (`...`): `F1:F2:A:B:E:R`
   
   Example: `./integral -R 1:2:1.8:2.2:0.0001:1.95615`
-- `./integral -I ...` или `./integral --test-integral ...` Test the integral calculation function.
+- `./integral -I ...` or `./integral --test-integral ...` Test the integral calculation function.
   
   Parameter format (`...`): `F:A:B:E:R`
   
