@@ -35,10 +35,10 @@ The project is built using the `make` utility:
 
 ## Program Usage
 - `./integral` Compute the area of the shape.
-- `./integral -h` или `./integral --help` Show usage help.
-- `./integral -r` или `./integral --root` Display the points of intersection of the curves.
-- `./integral -i` или `./integral --iterations` Show the number of iterations for root finding.
-- `./integral -R ...` или `./integral --test-root ...` Test the root-finding function.
+- `./integral -h` or `./integral --help` Show usage help.
+- `./integral -r` or `./integral --root` Display the points of intersection of the curves.
+- `./integral -i` or `./integral --iterations` Show the number of iterations for root finding.
+- `./integral -R ...` or `./integral --test-root ...` Test the root-finding function.
 
   Parameter format (`...`): `F1:F2:A:B:E:R`
   
